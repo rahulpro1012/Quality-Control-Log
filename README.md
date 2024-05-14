@@ -43,5 +43,4 @@ Here are some sample queries you can execute:
 <ul>
   <li>Search for all logs with the level set to "error".</li>
   <li>Search for logs with the message containing a specific term.</li>
-  <li>Filter logs between specific timestamp ranges.</li>
 </ul>
