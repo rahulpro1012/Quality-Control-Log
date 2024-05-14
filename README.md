@@ -44,3 +44,7 @@ Here are some sample queries you can execute:
   <li>Search for all logs with the level set to "error".</li>
   <li>Search for logs with the message containing a specific term.</li>
 </ul>
+
+# Poatman Collection for APIs 
+
+https://api.postman.com/collections/30763907-29da617a-6878-4a3b-b65b-c193570bb56c?access_key=PMAT-01HXV6NQ39CX2199PXQ2M2383D
