@@ -1,0 +1,7 @@
+{"level": "ERROR", "log_string": "hello from error", "timestamp": "2024-05-13T15:20:49.907799800Z", "metadata": {"source": "error.log"}}
+{"level": "ERROR", "log_string": "err", "timestamp": "2024-05-13T15:24:15.137402200Z", "metadata": {"source": "error.log"}}
+{"level": "ERROR", "log_string": "boom", "timestamp": "2024-05-13T15:24:32.792150600Z", "metadata": {"source": "error.log"}}
+{"level": "ERROR", "log_string": "hello from error", "timestamp": "2024-05-14T03:29:34.621108300Z", "metadata": {"source": "error.log"}}
+{"level": "ERROR", "log_string": "hello from error", "timestamp": "2024-05-14T03:29:51.190749400Z", "metadata": {"source": "error.log"}}
+{"level": "ERROR", "log_string": "boom", "timestamp": "2024-05-14T03:41:17.834671300Z", "metadata": {"source": "error"}}
+{"level": "ERROR", "log_string": "hello from error", "timestamp": "2024-05-14T03:52:14.244189500Z", "metadata": {"source": "error.log"}}

@@ -1,0 +1,5 @@
+{"level": "SUCCESS", "log_string": "hello from success", "timestamp": "2024-05-13T15:18:14.739209900Z", "metadata": {"source": "success.log"}}
+{"level": "SUCCESS", "log_string": "hello from success", "timestamp": "2024-05-13T15:19:45.760889Z", "metadata": {"source": "success.log"}}
+{"level": "SUCCESS", "log_string": "hello from success", "timestamp": "2024-05-14T03:38:42.664332400Z", "metadata": {"source": "success.log"}}
+{"level": "SUCCESS", "log_string": "hello from success", "timestamp": "2024-05-14T03:38:53.606095700Z", "metadata": {"source": "success.log"}}
+{"level": "SUCCESS", "log_string": "hello from success", "timestamp": "2024-05-14T03:52:02.229773600Z", "metadata": {"source": "success.log"}}

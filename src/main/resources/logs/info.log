@@ -1,0 +1,20 @@
+{"level": "INFO", "log_string": "hello from success", "timestamp": "2024-05-13T15:18:14.739209900Z", "metadata": {"source": "info.log"}}
+{"level": "INFO", "log_string": "hello from success", "timestamp": "2024-05-13T15:19:45.761888900Z", "metadata": {"source": "info.log"}}
+{"level": "INFO", "log_string": "hello from error", "timestamp": "2024-05-13T15:20:49.907799800Z", "metadata": {"source": "info.log"}}
+{"level": "INFO", "log_string": "boom", "timestamp": "2024-05-13T15:24:43.122860200Z", "metadata": {"source": "error.log"}}
+{"level": "INFO", "log_string": "hello from error", "timestamp": "2024-05-14T03:29:34.622106800Z", "metadata": {"source": "info.log"}}
+{"level": "INFO", "log_string": "hello from error", "timestamp": "2024-05-14T03:29:51.190749400Z", "metadata": {"source": "info.log"}}
+{"level": "INFO", "log_string": "boom", "timestamp": "2024-05-14T03:30:55.362582100Z", "metadata": {"source": "logs/error.log"}}
+{"level": "INFO", "log_string": "b", "timestamp": "2024-05-14T03:31:10.100662100Z", "metadata": {"source": "logs/error.log"}}
+{"level": "INFO", "log_string": "b", "timestamp": "2024-05-14T03:31:31.434322700Z", "metadata": {"source": "logs/error.log"}}
+{"level": "INFO", "log_string": "b", "timestamp": "2024-05-14T03:33:01.701791300Z", "metadata": {"source": "error.log"}}
+{"level": "INFO", "log_string": "b", "timestamp": "2024-05-14T03:33:17.977881900Z", "metadata": {"source": "error.log"}}
+{"level": "INFO", "log_string": "b", "timestamp": "2024-05-14T03:34:40.267414500Z", "metadata": {"source": "error"}}
+{"level": "INFO", "log_string": "b", "timestamp": "2024-05-14T03:36:59.046780300Z", "metadata": {"source": "error"}}
+{"level": "INFO", "log_string": "b", "timestamp": "2024-05-14T03:37:21.188006200Z", "metadata": {"source": "error"}}
+{"level": "INFO", "log_string": "hello from success", "timestamp": "2024-05-14T03:38:42.664332400Z", "metadata": {"source": "info.log"}}
+{"level": "INFO", "log_string": "hello from success", "timestamp": "2024-05-14T03:38:53.607093300Z", "metadata": {"source": "info.log"}}
+{"level": "INFO", "log_string": "boom", "timestamp": "2024-05-14T03:39:31.863770500Z", "metadata": {"source": "error"}}
+{"level": "INFO", "log_string": "boom", "timestamp": "2024-05-14T03:40:43.305209200Z", "metadata": {"source": "error"}}
+{"level": "INFO", "log_string": "hello from success", "timestamp": "2024-05-14T03:52:02.229773600Z", "metadata": {"source": "info.log"}}
+{"level": "INFO", "log_string": "hello from error", "timestamp": "2024-05-14T03:52:14.244189500Z", "metadata": {"source": "info.log"}}
