@@ -12,25 +12,36 @@ This project is designed to demonstrate logging functionality in a Spring Boot a
   <li>Scalable and efficient logging implementation.</li>
   <li>Customizable log file paths.</li>
   </ul>
-Technologies Used
-Java
-Spring Boot
-Spring Web
-SLF4J (Simple Logging Facade for Java)
-Logback (Logging framework)
-Setup Instructions
-Clone the repository to your local machine.
-Make sure you have Java and Maven installed.
-Build the project using Maven: mvn clean install.
-Run the Spring Boot application: mvn spring-boot:run.
-Access the query interface at http://localhost:8080.
-Usage
-Use the provided API endpoints to log messages and search logs.
-Customize the log file paths and configurations in the application.properties file.
-Explore the codebase to understand the logging implementation and query interface.
-Sample Queries
-Here are some sample queries you can execute:
 
-Search for all logs with the level set to "error".
-Search for logs with the message containing a specific term.
-Filter logs between specific timestamp ranges.
+# Technologies Used
+<ul>
+  <li>Java</li>
+  <li>Spring Boot</li>
+  <li>Spring Web</li>
+  <li>SLF4J (Simple Logging Facade for Java)</li>
+  <li>Logback (Logging framework)</li>
+</ul>
+
+# Setup Instructions
+<ul>
+  <li>Clone the repository to your local machine.</li>
+  <li>Make sure you have Java and Maven installed.</li>
+  <li>Build the project using Maven: mvn clean install.</li>
+  <li>Run the Spring Boot application: mvn spring-boot:run.</li>
+  <li>Access the query interface at http://localhost:8080.</li>
+</ul>
+
+# Usage
+<ul>
+  <li>Use the provided API endpoints to log messages and search logs.</li>
+  <li>Customize the log file paths and configurations in the application.properties file.</li>
+  <li>Explore the codebase to understand the logging implementation and query interface.</li>
+</ui>
+
+# Sample Queries
+Here are some sample queries you can execute:
+<ul>
+  <li>Search for all logs with the level set to "error".</li>
+  <li>Search for logs with the message containing a specific term.</li>
+  <li>Filter logs between specific timestamp ranges.</li>
+</ul>
